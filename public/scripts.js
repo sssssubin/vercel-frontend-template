@@ -1,4 +1,4 @@
-const apiUrl = "https://vercel-template-backend.vercel.app/api/todos";
+const apiUrl = "https://vercel-backend-template.vercel.app/api/todos";
 
 document.addEventListener("DOMContentLoaded", () => {
   fetchTodos();
