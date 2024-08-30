@@ -1,6 +1,6 @@
-# Vercel Template Frontend
+# Vercel Frontend Template 
 
-이 저장소는 Vercel에 배포된 기본 HTML, CSS, JavaScript 프론트엔드 템플릿을 포함하고 있습니다. 데이터베이스와의 연동을 테스트하기 위한 간단한 예제입니다.
+이 프로젝트는 Vercel에 배포된 기본 HTML, CSS, JavaScript 프론트엔드 템플릿을 포함하고 있습니다. 기본적인 프론트엔드 구조를 설정하고 데이터베이스와의 연동을 테스트하기 위한 간단한 예제를 제공합니다. 프론트엔드 개발의 기초를 학습하고 실습할 수 있는 예제입니다.
 
 ## 📦 프로젝트 구성
 
@@ -10,12 +10,12 @@
 
 ## 🚀 배포
 
-이 프로젝트는 Vercel에 배포되어 있습니다. [배포된 사이트](https://vercel-template-frontend.vercel.app/)에 접속하여 프론트엔드 동작을 확인할 수 있습니다.
+이 프로젝트는 Vercel에 배포되어 있습니다. [배포된 사이트](https://vercel-frontend-template.vercel.app/)에 접속하여 프론트엔드 동작을 확인할 수 있습니다.
 
 ## 🔗 연동 링크
 
-- **백엔드 서비스 URL**: [Backend Service](https://vercel-template-backend.vercel.app/api/todos) - 백엔드 서비스의 URL을 통해 프론트엔드와의 연동을 확인할 수 있습니다.
-- **백엔드 저장소**: [Vercel Template Backend Repository](https://github.com/sssssubin/vercel-template-backend) - 백엔드 저장소를 확인하고 연동할 수 있습니다.
+- **백엔드 서비스 URL**: [Backend Service](https://vercel-backend-template.vercel.app/api/todos) - 백엔드 서비스의 URL을 통해 프론트엔드와의 연동을 확인할 수 있습니다.
+- **백엔드 저장소**: [Vercel Template Backend Repository](https://github.com/sssssubin/vercel-backend-template) - 백엔드 저장소를 확인하고 연동할 수 있습니다.
 
 ## 📋 기능
 
