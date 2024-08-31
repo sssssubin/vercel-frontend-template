@@ -14,7 +14,7 @@
 
 ## 🔗 연동 링크
 
-- **백엔드 서비스 URL**: [Backend Service](https://vercel-backend-template.vercel.app/api/todos) - 백엔드 서비스의 URL을 통해 프론트엔드와의 연동을 확인할 수 있습니다.
+- **백엔드 서비스 URL**: [Backend Service](https://vercel-backend-template.vercel.app/api/tests) - 백엔드 서비스의 URL을 통해 프론트엔드와의 연동을 확인할 수 있습니다.
 - **백엔드 저장소**: [Vercel Template Backend Repository](https://github.com/sssssubin/vercel-backend-template) - 백엔드 저장소를 확인하고 연동할 수 있습니다.
 
 ## 📋 기능
